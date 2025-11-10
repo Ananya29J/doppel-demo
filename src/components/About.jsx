@@ -42,11 +42,8 @@ export default function About() {
         Designed for futuristic learners who want to master time and focus.
       </p>
 
-      {/* Optional: Dynamic stats */}
-      <p className="text-gray-400 mt-4">
-        Welcome, <span className="text-purple-300 font-semibold">{userName}</span>!  
-        You have <span className="text-purple-300 font-semibold">{totalTasks}</span> tasks in your schedule.
-      </p>
+       
+        
     </div>
   );
 }
